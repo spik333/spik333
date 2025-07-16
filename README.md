@@ -4,7 +4,7 @@
 </p>
 
 <h6>
-  <i>In science we trust. Others we pentest.</i>
+  <i>In science we trust. All others we pentest.</i>
 </h6>
 
 
